@@ -9,7 +9,8 @@ how to run:
 - Open CMD and navitage to your cloned project.
 - type JUPYTER NOTEBOOK.
 - Proj will be opened in JUPYTER NOTEBOOK. 
-- install MATPLOTLIB LIBRARY :- python -m pip install matplotlib
+- install MATPLOTLIB LIBRARY :- python -m pip install matplotlib (Visualualize in form of graphs)
+- install SEABORN LIBRARY :-python -m pip install seaborn
 
 
 
